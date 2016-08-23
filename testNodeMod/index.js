@@ -1,0 +1,1 @@
+console.log('Hello, this is my test Node.js module');

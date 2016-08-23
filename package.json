@@ -1,0 +1,9 @@
+{
+   "name": "GruntjsTest",
+   "version": "0.0.1",
+   "description": "GruntjsTest",
+   "dependencies": {},
+   "devDependencies": {
+      "grunt-contrib-concat": "0.3.0"
+   }
+}
